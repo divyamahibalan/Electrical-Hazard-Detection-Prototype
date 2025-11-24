@@ -21,15 +21,15 @@ Outputs:
 🟥 High-risk 🟨 Medium-risk 🟩 Safe zone
 
 #This prototype demonstrates:
--User dashboard (live prediction + past alerts)
--Admin hazard-map visualization
--Mock SMS-style public alerts
--Hazard history and zone indicators
+*User dashboard (live prediction + past alerts)
+*Admin hazard-map visualization
+*Mock SMS-style public alerts
+*Hazard history and zone indicators
 
 🧠 Tech Stack
--Python: pandas, scikit-learn
--Machine Learning: Basic classification on simulated dataset
--UI Prototype: HTML, CSS, JavaScript
+*Python: pandas, scikit-learn
+*Machine Learning: Basic classification on simulated dataset
+*UI Prototype: HTML, CSS, JavaScript
 Architecture diagrams + flowcharts
 
 <img width="1756" height="794" alt="image" src="https://github.com/user-attachments/assets/8ba4b340-22f9-421e-846e-505a8792f296" />
@@ -45,6 +45,7 @@ https://github.com/user-attachments/assets/ee29b669-88f1-48ea-bf59-0ab0d9ced0b5
 https://github.com/user-attachments/assets/75391ed5-67cf-449b-9206-988d1960a4be
 
 🖼️ Screenshots
+
 Dashboard
 
 <img width="1837" height="976" alt="Screenshot 2025-11-24 210914" src="https://github.com/user-attachments/assets/641b9787-0529-4be6-8f53-2a1205270deb" />
@@ -70,10 +71,10 @@ Admin mock UI
 This prototype demonstrates concept validation before the hardware phase.
 
 📌 Future Work
--Rebuilding Python source code (lost)
--Integrating actual sensor hardware
--Real geo-mapping
--Automatic SMS gateway alerts
+*Rebuilding Python source code (lost)
+*Integrating actual sensor hardware
+*Real geo-mapping
+*Automatic SMS gateway alerts
 
 🙌 Author
 Built by your DivyaMahibalan as part of an early-stage IoT + ML exploration project.
