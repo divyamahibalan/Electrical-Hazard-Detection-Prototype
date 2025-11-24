@@ -31,12 +31,22 @@ ElectroShield uses ML predictions on simulated values like:
 *Python: pandas, sklearn (ML model)
 *Simulated dataset (self-generated)
 *HTML / CSS / JS for prototype UI
-*Flowcharts + Architecture diagrams
+Flowcharts + Architecture diagrams
+<img width="1756" height="794" alt="image" src="https://github.com/user-attachments/assets/8ba4b340-22f9-421e-846e-505a8792f296" />
 
 #📽️ Demo Video
+https://1drv.ms/f/c/39A353242C9249FA/EjIR9X-xxJBGn-TKXrjrJGkBQZJt8swMT9zOl0y7BP7S4g?e=uHyya2
 
 #🖼️ Screenshots
-<img width="1756" height="794" alt="image" src="https://github.com/user-attachments/assets/8ba4b340-22f9-421e-846e-505a8792f296" />
+--Dashboard home
+<img width="1837" height="976" alt="Screenshot 2025-11-24 210914" src="https://github.com/user-attachments/assets/641b9787-0529-4be6-8f53-2a1205270deb" />
+--Past Alerts
+<img width="981" height="832" alt="Screenshot 2025-11-24 211122" src="https://github.com/user-attachments/assets/c7061315-e112-44cc-abc2-a275b92ad01f" />
+--Hazard zone indicator
+<img width="1825" height="1017" alt="Screenshot 2025-11-24 211050" src="https://github.com/user-attachments/assets/6518ef32-4093-4b41-9f97-1874d43577ca" />
+--Admin mock UI
+<img width="1820" height="1028" alt="Screenshot 2025-11-24 211226" src="https://github.com/user-attachments/assets/7db08365-e8f3-4ca6-be07-dda89450f748" />
+
 
 #🔧 How the Model Works
 >Preprocessed simulated sensor data
