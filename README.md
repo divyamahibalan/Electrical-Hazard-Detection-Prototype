@@ -26,6 +26,26 @@ Outputs:
 *Mock SMS-style public alerts
 *Hazard history and zone indicators
 
+⭐ Features
+
+-ML-based risk classification
+-Synthetic dataset generation
+-Real-time prediction demo (UI simulated)
+-Interactive dashboards (User + Admin)
+-Hazard history and logging
+-Visual hazard indicators (map, charts, icons)
+
+📥 Installation
+
+The full Python implementation is being rebuilt.
+This section will be updated with setup instructions soon.
+Current repo includes:
+>Model explanation
+>Architecture diagrams
+>UI demo (HTML/CSS/JS prototype)
+>Screenshots
+>Documentation
+
 🧠 Tech Stack
 *Python: pandas, scikit-learn
 *Machine Learning: Basic classification on simulated dataset
@@ -70,11 +90,29 @@ Admin mock UI
 >Mapped to colour-coded risk zones
 This prototype demonstrates concept validation before the hardware phase.
 
-📌 Future Work
-*Rebuilding Python source code (lost)
-*Integrating actual sensor hardware
-*Real geo-mapping
-*Automatic SMS gateway alerts
+🏭 Use Cases
+
+--Home electrical safety systems
+--Industrial hazard monitoring
+--Smart grid predictive diagnostics
+--Workplace safety automation
+--Predictive maintenance for electrical units
+--IoT-based early warning systems
+
+🚧 Future Work
+
+>Rebuilding complete Python source code
+>ntegrating real sensors (temperature, voltage, leakage current)
+>ESP32 / Raspberry Pi hardware interfacing
+>Real-time geo-mapping
+>SMS / app-based hazard alerts
+>Cloud storage + analytics
+
+📌 Rebuild Notice
+
+⚠️ Original project code was lost during a system reset.
+The repository currently contains the UI demo, architecture, documentation, and concept workflow.
+Full implementation is under reconstruction.
 
 🙌 Author
 Built by your DivyaMahibalan as part of an early-stage IoT + ML exploration project.
